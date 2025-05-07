@@ -12,7 +12,13 @@ Estudiamos GIT para "usarlo" en proyectos de diseño web
 > salchichas
 
 - [x] uno
-- [x] two
+- [ ] two
+
 1. tu~turu~~
 2. wa~ wa~ waaaaa~
-3.
+
+![rauw](https://media.tenor.com/qJRMLPlR3_8AAAAj/maxwell-cat.gif)
+![rauw](https://media.tenor.com/qJRMLPlR3_8AAAAj/maxwell-cat.gif)
+![rauw](https://media.tenor.com/qJRMLPlR3_8AAAAj/maxwell-cat.gif)
+![rauw](https://media.tenor.com/qJRMLPlR3_8AAAAj/maxwell-cat.gif)
+
